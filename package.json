@@ -1,0 +1,22 @@
+{
+  "name": "HowToBeAProgrammer.pdf",
+  "version": "0.0.0",
+  "description": "convert HowToBeAProgrammer markdown files into one single PDF file",
+  "main": "apps.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vickydasta/HowToBeAProgrammer.pdf"
+  },
+  "keywords": [
+    "convert",
+    "pdf"
+  ],
+  "author": "vickydasta",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/vickydasta/HowToBeAProgrammer.pdf/issues"
+  }
+}
