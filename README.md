@@ -1,7 +1,7 @@
 # HowToBeAProgrammer.pdf
 
 
-nodejs script to convert [https://github.com/braydie/HowToBeAProgrammer](HowToBeAProgrammer's) markdown files. 
+nodejs script to convert [HowToBeAProgrammer's](https://github.com/braydie/HowToBeAProgrammer) markdown files. 
 
 # installation 
 
