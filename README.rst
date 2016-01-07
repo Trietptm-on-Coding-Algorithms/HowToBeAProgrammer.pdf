@@ -1,9 +1,9 @@
-# HowToBeAProgrammer.pdf
+HowToBeAProgrammer.pdf
 
 
 nodejs script to convert [HowToBeAProgrammer's](https://github.com/braydie/HowToBeAProgrammer) markdown files. 
-
-# installation 
+ 
+installation 
 
 - `git clone https://github.com/vickydasta/HowToBeAProgrammer.pdf
 - cd HowToBeAProgrammer.pdf
